@@ -5,7 +5,7 @@ def fizzbuzz(number)
   if number % 5 == 0
     return "Buzz"
   end
-  if number % 15 == 0
+  if number % 3 == 0 && nuber % 5 == 0
     return "FizzBuzz"
   end
 end
