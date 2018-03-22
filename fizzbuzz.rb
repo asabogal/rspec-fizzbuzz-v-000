@@ -10,3 +10,8 @@ def fizzbuzz(number)
   end
 
 end
+
+fizzbuzz(5)
+fizzbuzz(10)
+fizzbuzz(20)
+fizzbuzz(15)
